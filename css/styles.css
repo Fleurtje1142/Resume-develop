@@ -9,7 +9,7 @@
 }
 
 .l-body {
-  background-color: #E7CCCC;
+  background-color: #EDE8DC;
   margin: 0 30px;
 }
 
@@ -161,14 +161,14 @@
 }
 
 .experience__details__volunteerism-highlight {
-  color: #8E8E8E;
+  color: #879870;
   font-style: italic;
   line-height: 1.2;
   margin-top: 0;
 }
 
 .interests li {
-  border: 2px solid lightgrey;
+  border: 2px solid #879870;
 }
 
 .interests li, .skills li {
@@ -329,22 +329,22 @@
 
 
   p {
-    color: #fff;
+    color: #55286F;
   }
 
   .contact-info__method,
   .experience__details__segment,
   .experience__role__organization,
   .experience__role__organization-name {
-    color: #fff;
+    color: #55286F;
   }
 
   .interests li {
-    background-color: lightgrey;
+    background-color: #879870;
   }
 
   .l-body {
-    background-color: #333;
+    background-color: #EDE8DC;
   }
 }
 
